@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! 👋
 
 - 🔭 Atualmente trabalho com BI na Secretaria de Políticas Públicas de Emprego no Ministério da Economia
 - 🌱 Busco aprimorar conhecimentos para iniciar nova carreira como consultor de BI
