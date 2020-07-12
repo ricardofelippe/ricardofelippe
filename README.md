@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Power BI
-- 🌱 I’m currently learning Power BI-Data Modeling/ Master Linear Algebra...
+- 🔭 Atualmente trabalho com BI na Secretaria de Políticas Públicas de Emprego
+- 🌱 Busco aprimorar conhecimentos para iniciar nova carreira com consultor de BI
+-:muscle:
 
 <!--
 **ricardofelippe/ricardofelippe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
