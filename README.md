@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho com BI na Secretaria de Políticas Públicas de Emprego
 - 🌱 Busco aprimorar conhecimentos para iniciar nova carreira com consultor de BI
--:muscle:
+- :muscle:
 
 <!--
 **ricardofelippe/ricardofelippe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
