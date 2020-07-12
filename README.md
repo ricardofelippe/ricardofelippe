@@ -1,8 +1,8 @@
 ### Olá! 👋
 
 - 🔭 Atualmente trabalho com BI na Secretaria de Políticas Públicas de Emprego no Ministério da Economia
-- 🌱 Busco aprimorar conhecimentos para iniciar nova carreira como consultor de BI
-- :muscle: Qualificação contínua visando agregar valor ao meu trabalho
+- 🌱 Aprimorando conhecimentos para trabalhar como consultor de BI
+- :muscle: Qualificação contínua ...
 
 <!--
 **ricardofelippe/ricardofelippe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
