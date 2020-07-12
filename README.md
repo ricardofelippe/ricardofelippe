@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 - 🔭 Atualmente trabalho com BI na Secretaria de Políticas Públicas de Emprego no Ministério da Economia
-- 🌱 Aprimorando conhecimentos para trabalhar como consultor de BI
+- 🌱 Interesses: BI, Matemática e Estatística 
 - :muscle: Qualificação contínua ...
 
 <!--
