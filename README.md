@@ -1,8 +1,8 @@
 ### Olá! 👋
 
 - 🔭 Atualmente trabalho com BI na Secretaria de Políticas Públicas de Emprego no Ministério da Economia
-- 🌱 Interesses: BI, Matemática e Estatística 
-- :muscle: Qualificação contínua ...
+- 🌱 Interesses: Machine Learning, BI, Matemática e Estatística 
+
 
 <!--
 **ricardofelippe/ricardofelippe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
