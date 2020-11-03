@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 - 🔭 Atualmente trabalho com BI na Secretaria de Políticas Públicas de Emprego no Ministério da Economia
-- 🌱 Interesses: Poesias,Música,Machine Learning, BI, Matemática e Estatística 
+- 🌱 Interesses: Poesias, Música, Machine Learning, BI, Matemática e Estatística 
 
 
 <!--
