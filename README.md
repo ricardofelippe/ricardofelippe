@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- 🔭 Trabalhando com BI no Ministério da Agriculutra, Pecuária e Abastecimento-SFA/PR
+- 🔭 Trabalhando com BI no Ministério da Agricultura, Pecuária e Abastecimento-SFA/PR
 - 🌱 Interesses Profissionais: Machine Learning, BI, Matemática e Estatística 
 - 🌱 Interesses Particulares: Família, Aikido, Corrida, Poesia
 
