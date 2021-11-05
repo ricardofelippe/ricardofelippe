@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- 🔭 Atualmente trabalho com BI na Secretaria de Políticas Públicas de Emprego no Ministério da Economia
+- 🔭 Trabalhando com BI no Ministério da Agriculutra, Pecuária e Abastecimento-SFA/PR
 - 🌱 Interesses: Poesia, Música, Machine Learning, BI, Matemática e Estatística 
 
 
