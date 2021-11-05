@@ -1,8 +1,8 @@
 ### Olá! 👋
 
 - 🔭 Trabalhando com BI no Ministério da Agriculutra, Pecuária e Abastecimento-SFA/PR
-- 🌱 Interesses: Poesia, Música, Machine Learning, BI, Matemática e Estatística 
-
+- 🌱 Interesses Profissionais: Machine Learning, BI, Matemática e Estatística 
+- 🌱 Interesses Particulares: Família, Aikido, Corrida, Poesia
 
 <!--
 **ricardofelippe/ricardofelippe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
